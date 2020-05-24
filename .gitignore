@@ -1,0 +1,7 @@
+# Compilation artifacts
+*.bin
+*.exe
+*.o
+
+# Personal files
+_todo.txt
